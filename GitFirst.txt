@@ -1,0 +1,5 @@
+Hi,
+I created this file to understand the git commands.
+If you are using git for the very first time then you need to do some configuration changes.
+1.git config --global user.name "Tinu-05"
+2.git config --global user.email "priyanpawar7@gmail.com"
